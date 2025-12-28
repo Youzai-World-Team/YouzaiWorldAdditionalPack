@@ -28,6 +28,9 @@
     },
     "gold_coin_500": {
       "textures": "textures/items/gold_coin_500"
+    },
+    "open_main_menu": {
+      "textures": "textures/items/open_main_menu"
     }
   }
 }
