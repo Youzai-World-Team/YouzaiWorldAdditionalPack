@@ -8,6 +8,7 @@ item.youzaiworld:gold_coin_500=§l§e500 Gold Coin Ticket
 tile.youzaiworld:gold_coin_ore.name=§l§eGold Coin Ore
 item.youzaiworld:gold_coin=§l§eGold Coin
 item.youzaiworld:gold_coin_part=§l§eGold Coin Part
+item.youzaiworld:open_main_menu=§l§eOpen Main Menu
 item.record_11.desc=§eEaster Egg: §cThe Internationale §r-§b Chinese People`s Liberation Army Military Band
 world.loading=§bEntering
 world.saving=§bExiting
